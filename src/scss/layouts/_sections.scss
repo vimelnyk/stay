@@ -1,0 +1,40 @@
+.padding-normal{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.compose-variable{
+	&__head{
+		padding-bottom: 25px;
+	}
+	&__body{
+		input{
+			margin-bottom: 20px;
+		}
+		button{
+			margin: 5px;
+		}
+	}
+	
+}
+
+
+.see-results{	
+	&__body{
+		display: flex;
+		@include respondTo(screenmdmax){
+			flex-direction: column;
+		}
+		.col{
+			.txt-title{
+				margin-bottom: 25px;
+			}
+			padding: 15px;
+			width: 50%;
+			@include respondTo(screenmdmax){
+				width: 100%;
+			}
+		}
+		
+	}
+}

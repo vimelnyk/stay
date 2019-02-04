@@ -1,0 +1,112 @@
+{
+	"header":{
+    	"title": "Apartments in Krakow"
+    },
+     "gallery":{
+    	"title": "Apartments in Krkow"    	
+    },
+    "footer":{    	
+    	"copyright": "All rights reserved",
+    	"year": "Cracov 2018"
+    },
+	"items":[
+		{
+			"preheader": "Bożego Ciała 14, Kraków",
+			"title":"Karamel",
+			"type":"Comfort",
+			"roominess":"up to 4 people",
+			"img1": "./img/yta2/img1.jpg",
+			"img2": "./img/yta2/img2.jpg",
+			"img3": "./img/yta2/img3.jpg",
+			"img4": "./img/yta2/img4.jpg",
+			"img5": "./img/yta2/img5.jpg",
+			"img6": "./img/yta2/img6.jpg",
+			"img7": "./img/yta2/img7.jpg",
+			"img8": "./img/yta2/img8.jpg",
+			"img9": "./img/yta2/img9.jpg",
+			"img10": "./img/yta2/img10.jpg",
+			"img11": "./img/yta2/img11.jpg",
+			"link": "/you-trip-apartment-double"
+		},
+		{
+			"preheader": "Dietla 34, Kraków",
+			"title":"White Chocolate",
+			"type":"Comfort",
+			"roominess":"up to 4 people",
+			"img1": "./img/op/img-1.jpg",
+			"img2": "./img/op/img-2.jpg",
+			"img3": "./img/op/img-3.jpg",
+			"link": "/you-trip-apartment-double"
+		},		
+		{
+			"preheader": "Dietla 34, Kraków",
+			"title":"Cinnamon",
+			"type":"Comfort",
+			"roominess":"up to 4 people",
+			"img1": "./img/op/img-7.jpg",
+			"img2": "./img/op/img-8.jpg",
+			"img3": "./img/op/img-9.jpg",
+			"link": "/you-trip-apartment-double"
+		},
+		{
+			"preheader": "Starowiślna 54, Kraków",
+			"title":"Domino Kazimierz",
+			"type":"Comfort",
+			"roominess":"up to 4 people",
+			"img1": "./img/op/img-10.jpg",
+			"img2": "./img/op/img-11.jpg",
+			"img3": "./img/op/img-12.jpg",
+			"link": "/you-trip-apartment-double"
+		},
+		{
+			"preheader": "Dietla 48, Kraków",
+			"title":"Two level apartment near to Wawel",
+			"type":"Comfort",
+			"roominess":"up to 4 people",
+			"img1": "./img/op/img-13.jpg",
+			"img2": "./img/op/img-14.jpg",
+			"img3": "./img/op/img-15.jpg",
+			"link": "/you-trip-apartment-double"
+		},		
+		{
+			"preheader": "Rzeszowska 3/3(1)",
+			"title":"Your Trip Apartment (single)",
+			"type":"Econom",
+			"roominess":"for 1 person",
+			"img1": "./img/op/img-13.jpg",
+        	"img2": "./img/op/img-14.jpg",
+        	"img3": "./img/op/img-15.jpg",
+			"link": "/you-trip-apartment-double"
+		},
+		{
+			"preheader": "Rzeszowska 3/3(2)",
+			"title":"Your Trip Apartment (double)",
+			"type":"Econom",
+			"roominess":"up to 2 people",
+			"img1": "./img/op/img-16.jpg",
+        	"img2": "./img/op/img-17.jpg",
+        	"img3": "./img/op/img-18.jpg",
+			"link": "/you-trip-apartment-double"
+		},
+		{
+			"preheader": "Rzeszowska 3/6(1)",
+			"title":"Apartment For Guests (single)",
+			"type":"Econom",
+			"roominess":"for 1 person",
+			"img1": "./img/op/img-19.jpg",
+        	"img2": "./img/op/img-20.jpg",
+        	"img3": "./img/op/img-21.jpg",
+			"link": "/you-trip-apartment-double"
+		},
+		{
+			"preheader": "Rzeszowska 3/6(2)",
+			"title":"Apartment For Guests (double)",
+			"type":"Econom",
+			"roominess":"up to 2 people",
+			"img1": "./img/op/img-13.jpg",
+			"img2": "./img/op/img-14.jpg",
+			"img3": "./img/op/img-15.jpg",
+			"link": "/you-trip-apartment-double"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+html, body {
+    width: 100%;
+}
+body {
+   
+   font-family: $fontFamily;
+}
+a {
+    text-decoration: none;
+    outline: none;
+}
+.container{
+	padding-right: 15px;
+	padding-left: 15px;
+	@include respondTo(screenmdmin){
+		width: 900px;
+		margin: auto;
+
+	}
+}
+
+.text-center{
+	text-align: center;
+}
+
+.backgrounded{
+	@extend %backgrounded;
+}
+.uppercase{
+	text-transform: uppercase;
+}

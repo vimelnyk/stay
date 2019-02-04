@@ -1,0 +1,39 @@
+.bttn{	
+	display: inline-block;
+	appearance:none;
+	@include square(70px);
+	border-radius:100%;
+	border: none;
+	font-weight: 700;
+	&:focus{
+		outline:0;
+	}
+
+	&--pink{
+		@include buttons(
+			white,
+			white,
+			$pink,
+			darken($pink, 10%)
+			)
+	}
+
+	&--blue{
+		@include buttons(
+			$yellow,
+			$yellow,
+			$blue,
+			darken($blue, 10%)
+			)
+	}
+
+	&--green{
+		@include buttons(
+			$pink,
+			$pink,
+			$green,
+			darken($green, 10%)
+			)
+	}
+
+}

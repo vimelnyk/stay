@@ -1,0 +1,16 @@
+.input-string{
+	appearance:none;
+	border:none;
+	width: 400px;
+	@include respondTo(screenxsmax){
+		width:280px;
+	}
+	margin: auto;
+	display: block;
+	border-radius:30px;
+	padding:20px;
+	margin-bottom: 20px;
+	&:focus{
+		outline:0;
+	}
+}
